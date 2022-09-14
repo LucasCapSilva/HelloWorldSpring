@@ -11,7 +11,7 @@ public class HelloController {
 	@GetMapping
 	public String hello() {
 
-		return "Hello my friends Generation!!!";
+		return "Hello  Generation!!!";
 
 	}
 
