@@ -1,10 +1,10 @@
-package com.HelloWolrd.HelloWolrd;
+package com.generation.HelloWorld;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HelloWolrdApplicationTests {
+class HelloWorldApplicationTests {
 
 	@Test
 	void contextLoads() {

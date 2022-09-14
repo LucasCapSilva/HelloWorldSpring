@@ -1,13 +1,13 @@
-package com.HelloWolrd.HelloWolrd;
+package com.generation.HelloWorld;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HelloWolrdApplication {
+public class HelloWorldApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HelloWolrdApplication.class, args);
+		SpringApplication.run(HelloWorldApplication.class, args);
 	}
 
 }
